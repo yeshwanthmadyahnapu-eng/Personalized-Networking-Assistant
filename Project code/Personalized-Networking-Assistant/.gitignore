@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.env
+
+database/history.json
+database/feedback.json
+
+.vscode/
+.idea/
